@@ -1,6 +1,7 @@
 # Release
 Contains released UI
- /******    V1.3.29       ********/
+
+/******    V1.3.29       ********/
 
 Save parameters to file - checksum verification operation changed
 Database enable/disable specific command added
