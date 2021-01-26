@@ -13,3 +13,4 @@ Tx event replaced by static function
 Some code useless deleted
 Serial connection (Connect-Disconnect) improved
 Serial communication process changed, in order to prepare CAN Communication process
+
