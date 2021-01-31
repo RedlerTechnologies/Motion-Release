@@ -1,6 +1,9 @@
 # Release
 Contains released UI
 
+MotorController 1.3.32:
+- Calibration timeout occurred when running via wizard window
+
 MotorController 1.3.31:
 - Save parameters to file missing get of last parameters 
 - Load paramteres from file bug fix
