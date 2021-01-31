@@ -1,6 +1,9 @@
 # Release
 Contains released UI
 
+MotorController 1.3.31:
+- Save parameters to file missing get of last parameters 
+
 MotorController 1.3.30:
 - Plot internal error after FW update
 - Bode plot background color changed depending of released version (STXI/REDLER) 
