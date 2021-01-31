@@ -3,6 +3,7 @@ Contains released UI
 
 MotorController 1.3.31:
 - Save parameters to file missing get of last parameters 
+- Load paramteres from file bug fix
 
 MotorController 1.3.30:
 - Plot internal error after FW update
