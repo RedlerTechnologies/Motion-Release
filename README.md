@@ -2,6 +2,12 @@
 Contains released UI
 
 MotorController 1.3.32:
+- New operation added (Parameters -> Motion -> Stop Motion - > Enable Gate Driver)
+- Operation ID, Index wrong fixed (BP -> Reports -> Position Counters -> Main)
+- Read only parameters limitation (db integration was missing)
+- BP interfaces improve (blank space added)
+
+MotorController 1.3.32:
 - Calibration timeout occurred when running via wizard window
 
 MotorController 1.3.31:
