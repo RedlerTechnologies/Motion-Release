@@ -1,6 +1,10 @@
 # Release
 Contains released UI
 
+MotorController 1.3.33b:
+- Excel delmiter changed (Take in consideration STX version, using ';' instead of ',')
+- BP interfaces improve (Signal generator group ->  Margin added)
+
 MotorController 1.3.33:
 - New operation added (Parameters -> Motion -> Stop Motion - > Enable Gate Driver)
 - Operation ID, Index wrong fixed (BP -> Reports -> Position Counters -> Main)
