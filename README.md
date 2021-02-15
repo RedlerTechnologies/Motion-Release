@@ -1,8 +1,11 @@
 # Release
 Contains released UI
 
+MotorController 1.3.33c:
+- Excel delimiter option added via a ‘ComboBox’ in main panel (near “record” button)
+
 MotorController 1.3.33b:
-- Excel delmiter changed (Take in consideration STX version, using ';' instead of ',')
+- Excel delimiter changed (Take in consideration STX version, using ';' instead of ',')
 - BP interfaces improve (Signal generator group ->  Margin added)
 
 MotorController 1.3.33:
