@@ -1,6 +1,20 @@
 # Release
 Contains released UI
 
+MotorController 1.3.34a:
+- Read system "NumberGroupSeparator" and show it in "Delimiter" control  
+- CAN Open objects window added
+- ToggleSwitch unchecked background color changed
+- Parameters window resize is now enable
+- Connect time process improved
+- Graph -> Plot up to 8 channels simultaneously
+- Graph -> "Reset": Reset channels Scale/Offset made by mouse action when the "Freeze" option is activate
+- Graph -> "Load": Read from configuration file the user parameters for each channel, send to driver the "Source" and "Priority"
+- Graph -> "Save": Save to configuration file all channels parameters
+- Each plot channel has it owns color and can be changed by clicking the colored box
+- Each plot channel has it owns Priority, Scale, and Offset
+- Each plot channel can be autoscaled (calculate Scale and Offset) by clicking "Fit to size" icon near the colored box
+
 MotorController 1.3.33c:
 - Excel delimiter option added via a ‘ComboBox’ in main panel (near “record” button)
 
