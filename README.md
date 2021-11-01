@@ -1,6 +1,19 @@
 # Release
 Contains released UI
 
+MotorController 1.3.37a:
+- Communication statistics window added.  
+- Monitor (sniffer) mode added.
+- Advanced mode added.
+- Kd definition added to all sections in PID tab.
+- Filter section moved to device tab.
+- More Input/Output added.
+- Command summary table added to debug tab.
+- Log file added to "Documents/MotorController/Logs/".
+- Show log button added for resizing the log window.
+- More calibration configurations added. 
+
+
 MotorController 1.3.34a:
 - Read system "NumberGroupSeparator" and show it in "Delimiter" control  
 - CAN Open objects window added
