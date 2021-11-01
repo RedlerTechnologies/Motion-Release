@@ -5,7 +5,7 @@ MotorController 1.3.37a:
 - Communication statistics window added.  
 - Monitor (sniffer) mode added.
 - Advanced mode added.
-- Kd definition added to all sections in PID tab.
+- Kd option added to all sections in PID tab.
 - Filter section moved to device tab.
 - More Input/Output added.
 - Command summary table added to debug tab.
