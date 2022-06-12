@@ -1,3 +1,5 @@
+Please note - From version 1.3.38a (not included), we add all the release files in the "Releases" section inside the repo.
+
 # Release
 Contains released UI
 
