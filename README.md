@@ -1,4 +1,4 @@
-Please note - From version 1.3.38a (not included), we add all the release files in the "Releases" section inside the repo.
+Please note - From version 1.3.38a (not included), we add all the release files in the "Releases" section inside the repo and NOT as a separate commit.
 
 # Release
 Contains released UI
